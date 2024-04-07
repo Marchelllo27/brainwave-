@@ -1,4 +1,4 @@
 const Other = () => {
-  return <div>Other</div>;
+  return <div>Other!!!</div>;
 };
 export default Other;
