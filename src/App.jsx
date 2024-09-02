@@ -10,7 +10,7 @@ import Services from "./components/Services";
 
 const App = () => {
   return (
-    <>
+    <main>
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
         <Hero />
@@ -23,7 +23,7 @@ const App = () => {
       </div>
 
       <ButtonGradient />
-    </>
+    </main>
   );
 };
 
